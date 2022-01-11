@@ -1,0 +1,50 @@
+<Route path="/general" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
+<Route path="/science" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
+<Route path="/sports" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
+<Route path="/business" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
+<Route path="/health" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
+<Route path="/entertainment" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
+<Route path="/tech" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
+<Route path="/politics" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
+<Route path="/food" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
+<Route path="/travel" element={<News
+          country={'in'}
+          category={'tech'}
+          apiKey={'wdAqexlvSscFDEWE2PnrTWwoIZ3I00biZTtxIiTB'}
+        />}/>
